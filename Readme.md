@@ -31,3 +31,7 @@ Iteration2		 3       2        2         3      2
 
 A=4
 Iteration2		 3       2        2         4      2
+
+
+
+https://blackopscode.com/codility-case-1-binary-gap-java-solution/
